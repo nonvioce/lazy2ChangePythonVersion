@@ -1,5 +1,5 @@
 # lazy2ChangePythonVersion
-** is not tested**
+*** is not tested ***
 ## main contain
 Different application using different python version, but they just write python, but python2 or python3, it help us to change easily.   
 ## how to use
