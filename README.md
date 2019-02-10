@@ -1,12 +1,12 @@
 # lazy2ChangePythonVersion
-*** is not tested***
+** is not tested**
 ## main contain
 Different application using different python version, but they just write python, but python2 or python3, it help us to change easily.   
 ## how to use
 ### first way
 1. fix the config/main.config file  
 A comment begins with "#"  
-a example:  
+an example:  
 ```
 #This is comments
 #makehuman using python2
